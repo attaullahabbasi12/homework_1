@@ -218,3 +218,6 @@ my_database.add_movie("Movie4", "action", 5)
 
 # Call 
 my_database.what_to_watch()
+
+
+#Some  help e was taken from OpenAI. 2024. "ChatGPT-3.5." Accessed [7th April, 2024]. https://openai.com/
